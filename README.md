@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Saindhavi ðŸ‘‹
+# Hi there, I'm Saindhavi 👋
 
-### ðŸš€ BCA Student | Aspiring Java Full Stack Developer | AI & Data Science Enthusiast
+### 🚀 BCA Student | Aspiring Java Full Stack Developer | AI & Data Science Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Aspiring+Java+Full+Stack+Developer+%E2%98%95;Building+with+Spring+Boot+%26+REST+APIs+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%92%BB" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 ---
 
-## ðŸŒŸ About Me
+## 🌟 About Me
 
 ```java
 public class Saindhavi {
@@ -29,17 +29,17 @@ public class Saindhavi {
 }
 ```
 
-- ðŸŽ“ I'm a **BCA student** building a strong foundation in computer science and software development.
-- â˜• I'm on a focused path to becoming a **Java Full Stack Developer**.
-- ðŸŒ± Passionate about **Java, Spring Boot, Web Development, AI, Data Science, and Machine Learning**.
-- ðŸ› ï¸ I love building **practical applications** that solve real-world problems.
-- ðŸ”­ Currently strengthening my **Full Stack** skills with **React, REST APIs, and advanced Spring Boot**.
-- ðŸ’¬ Ask me about **Java, Spring Boot, MySQL, or Machine Learning**.
-- ðŸ“« Open to **internship and entry-level Full Stack Developer opportunities** â€” let's connect!
+- 🎓 I'm a **BCA student** building a strong foundation in computer science and software development.
+- ☕ I'm on a focused path to becoming a **Java Full Stack Developer**.
+- 🌱 Passionate about **Java, Spring Boot, Web Development, AI, Data Science, and Machine Learning**.
+- 🛠️ I love building **practical applications** that solve real-world problems.
+- 🔭 Currently strengthening my **Full Stack** skills with **React, REST APIs, and advanced Spring Boot**.
+- 💬 Ask me about **Java, Spring Boot, MySQL, or Machine Learning**.
+- 📫 Open to **internship and entry-level Full Stack Developer opportunities** — let's connect!
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -68,41 +68,41 @@ public class Saindhavi {
 
 ---
 
-## ðŸ—ºï¸ Java Full Stack Developer Roadmap
+## 🗺️ Java Full Stack Developer Roadmap
 
 ```
-âœ… Core Java & OOP Concepts
-âœ… Data Structures & Algorithms (DSA)
-âœ… HTML, CSS, JavaScript Fundamentals
-âœ… MySQL & Database Management
-âœ… Git & GitHub Version Control
-ðŸ”„ Spring Boot & REST API Development      â† In Progress
-ðŸ”„ React.js for Frontend Development       â† In Progress
-ðŸ”„ Full Stack Project Integration          â† In Progress
-â³ Authentication & Security (Spring Security, JWT)
-â³ Cloud Deployment (AWS / Azure)
-â³ Microservices Architecture
+✅ Core Java & OOP Concepts
+✅ Data Structures & Algorithms (DSA)
+✅ HTML, CSS, JavaScript Fundamentals
+✅ MySQL & Database Management
+✅ Git & GitHub Version Control
+🔄 Spring Boot & REST API Development      ← In Progress
+🔄 React.js for Frontend Development       ← In Progress
+🔄 Full Stack Project Integration          ← In Progress
+⏳ Authentication & Security (Spring Security, JWT)
+⏳ Cloud Deployment (AWS / Azure)
+⏳ Microservices Architecture
 ```
 
-> ðŸŽ¯ **Goal:** Become a confident **Java Full Stack Developer**, capable of designing, building, and deploying end-to-end web applications using **Java, Spring Boot, React, and MySQL**.
+> 🎯 **Goal:** Become a confident **Java Full Stack Developer**, capable of designing, building, and deploying end-to-end web applications using **Java, Spring Boot, React, and MySQL**.
 
 ---
 
-## ðŸš€ Featured Projects
+## 🚀 Featured Projects
 
-### ðŸ“Š [Transport Demand Prediction using Regression](https://github.com/Saindhavi-Kandhasamy/transport-demand-prediction)
+### 📊 [Transport Demand Prediction using Regression](https://github.com/Saindhavi-Kandhasamy/transport-demand-prediction)
 > A machine learning project that applies **regression techniques** to predict transportation demand using historical data, helping uncover patterns and support data-driven decision-making.
 
 **Highlights:**
-- ðŸ”¹ Implemented and compared multiple regression models for demand forecasting
-- ðŸ”¹ Performed data preprocessing, feature engineering, and exploratory data analysis
-- ðŸ”¹ Evaluated model performance using standard regression metrics
+- 🔹 Implemented and compared multiple regression models for demand forecasting
+- 🔹 Performed data preprocessing, feature engineering, and exploratory data analysis
+- 🔹 Evaluated model performance using standard regression metrics
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
 
 ---
 
-## ðŸ“ˆ GitHub Statistics
+## 📈 GitHub Statistics
 
 <div align="center">
 
@@ -117,7 +117,7 @@ public class Saindhavi {
 
 ---
 
-## ðŸŒ± Currently Learning
+## 🌱 Currently Learning
 
 ![Advanced Java](https://img.shields.io/badge/-Advanced%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -125,14 +125,14 @@ public class Saindhavi {
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-- â˜• Deepening my expertise in **Advanced Java** and **Spring Boot** for backend development
-- ðŸ”— Building and consuming **REST APIs** for scalable applications
-- âš›ï¸ Learning **React.js** to round out my **Full Stack** skill set
-- ðŸ§  Strengthening **Data Structures & Algorithms** for technical interviews
+- ☕ Deepening my expertise in **Advanced Java** and **Spring Boot** for backend development
+- 🔗 Building and consuming **REST APIs** for scalable applications
+- ⚛️ Learning **React.js** to round out my **Full Stack** skill set
+- 🧠 Strengthening **Data Structures & Algorithms** for technical interviews
 
 ---
 
-## ðŸ¤ Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -146,10 +146,10 @@ public class Saindhavi {
 
 <div align="center">
 
-### ðŸ’­ "First, solve the problem. Then, write the code." â€” John Johnson
+### 💭 "First, solve the problem. Then, write the code." — John Johnson
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Saindhavi-Kandhasamy&color=blueviolet&style=flat-square)
 
-â­ï¸ *Thanks for visiting my profile â€” feel free to explore my repositories and connect!*
+⭐️ *Thanks for visiting my profile — feel free to explore my repositories and connect!*
 
 </div>
